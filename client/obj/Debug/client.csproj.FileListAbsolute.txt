@@ -1,5 +1,4 @@
 c:\users\donald\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
-c:\users\donald\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
 c:\users\donald\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
 c:\users\donald\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form2.resources
 c:\users\donald\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources

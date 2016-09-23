@@ -7,4 +7,3 @@ C:\Users\Donald\Documents\Visual Studio 2015\Projects\client\client\obj\Release\
 C:\Users\Donald\Documents\Visual Studio 2015\Projects\client\client\obj\Release\client.csproj.GenerateResource.Cache
 C:\Users\Donald\Documents\Visual Studio 2015\Projects\client\client\obj\Release\client.exe
 C:\Users\Donald\Documents\Visual Studio 2015\Projects\client\client\obj\Release\client.pdb
-C:\Users\Donald\Documents\Visual Studio 2015\Projects\client\client\obj\Release\client.csprojResolveAssemblyReference.cache
